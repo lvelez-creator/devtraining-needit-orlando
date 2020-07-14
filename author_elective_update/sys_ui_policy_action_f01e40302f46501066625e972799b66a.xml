@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_request_type</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 02:13:14</sys_created_on>
+        <sys_id>f01e40302f46501066625e972799b66a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f01e40302f46501066625e972799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 02:31:19</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value=" form is required!">893d08fc2f06501066625e972799b693</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>535d8e8adb1f8858b847ac44d49619ca</instance_id>
+        <instance_name>dev102066</instance_name>
+        <name>sys_ui_policy_action_f01e40302f46501066625e972799b66a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_request_type</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-14 02:13:14</sys_created_on><sys_id>f01e40302f46501066625e972799b66a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>u_request_type</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_f01e40302f46501066625e972799b66a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-14 02:31:19</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value=" form is required!">893d08fc2f06501066625e972799b693</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1538910163</payload_hash>
+        <record_name>u_request_type</record_name>
+        <reverted_from/>
+        <source>93dcbf5c2f8a101066625e972799b607</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 02:31:19</sys_created_on>
+        <sys_id>0272d0b02f46501066625e972799b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734b2987230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 02:31:19</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>4a72d0b0e44650105ec5ba9eb840e381</update_guid>
+        <update_guid_history>4a72d0b0e44650105ec5ba9eb840e381:1538910163,055e887c63065010c54347080ff56a97:1945880658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 02:34:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>63f4e904db2147f5911bb603346ad9a1</sys_id>
+        <sys_metadata>f01e40302f46501066625e972799b66a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value=" form is required!">893d08fc2f06501066625e972799b693</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_f01e40302f46501066625e972799b66a</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_f01e40302f46501066625e972799b66a">0272d0b02f46501066625e972799b682</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 02:34:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
